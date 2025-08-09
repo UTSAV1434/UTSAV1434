@@ -1,12 +1,10 @@
-- 👋 Hi, I’m @UTSAV1434
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ...
+👋 Hi, I'm Utsav Kumar
 
-<!---
-UTSAV1434/UTSAV1434 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎯 **Third-year Data Science student** on a mission to master Data Science, DSA, and Cloud skills — and document the journey in public. 
+
+💻 I believe in *learning by doing* and keeping my work transparent so anyone can see my growth.
+
+🚀 Current Focus
+- **DSA in Python** → Strengthening problem-solving skills
+- **Machine Learning** → Building practical, deployable ML projects
+- **Cloud & Data Engineering** → Learning scalable data pipelines
